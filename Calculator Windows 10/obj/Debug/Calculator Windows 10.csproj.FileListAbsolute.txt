@@ -1,0 +1,10 @@
+C:\Users\Sebas\source\repos\Calculator Windows 10\Calculator Windows 10\obj\Debug\Calculator Windows 10.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\Calculator Windows 10\Calculator Windows 10\obj\Debug\Calculator_Windows_10.Form1.resources
+C:\Users\Sebas\source\repos\Calculator Windows 10\Calculator Windows 10\obj\Debug\Calculator_Windows_10.Properties.Resources.resources
+C:\Users\Sebas\source\repos\Calculator Windows 10\Calculator Windows 10\obj\Debug\Calculator Windows 10.csproj.GenerateResource.cache
+C:\Users\Sebas\source\repos\Calculator Windows 10\Calculator Windows 10\obj\Debug\Calculator Windows 10.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Calculator Windows 10\Calculator Windows 10\bin\Debug\Calculator Windows 10.exe.config
+C:\Users\Sebas\source\repos\Calculator Windows 10\Calculator Windows 10\bin\Debug\Calculator Windows 10.exe
+C:\Users\Sebas\source\repos\Calculator Windows 10\Calculator Windows 10\bin\Debug\Calculator Windows 10.pdb
+C:\Users\Sebas\source\repos\Calculator Windows 10\Calculator Windows 10\obj\Debug\Calculator Windows 10.exe
+C:\Users\Sebas\source\repos\Calculator Windows 10\Calculator Windows 10\obj\Debug\Calculator Windows 10.pdb
