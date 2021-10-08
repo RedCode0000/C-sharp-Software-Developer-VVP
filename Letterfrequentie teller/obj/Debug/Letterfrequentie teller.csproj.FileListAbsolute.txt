@@ -1,0 +1,10 @@
+C:\Users\Sebas\source\repos\Letterfrequentie teller\Letterfrequentie teller\bin\Debug\Letterfrequentie teller.exe.config
+C:\Users\Sebas\source\repos\Letterfrequentie teller\Letterfrequentie teller\bin\Debug\Letterfrequentie teller.exe
+C:\Users\Sebas\source\repos\Letterfrequentie teller\Letterfrequentie teller\bin\Debug\Letterfrequentie teller.pdb
+C:\Users\Sebas\source\repos\Letterfrequentie teller\Letterfrequentie teller\obj\Debug\Letterfrequentie teller.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\Letterfrequentie teller\Letterfrequentie teller\obj\Debug\Letterfrequentie_teller.Form1.resources
+C:\Users\Sebas\source\repos\Letterfrequentie teller\Letterfrequentie teller\obj\Debug\Letterfrequentie_teller.Properties.Resources.resources
+C:\Users\Sebas\source\repos\Letterfrequentie teller\Letterfrequentie teller\obj\Debug\Letterfrequentie teller.csproj.GenerateResource.cache
+C:\Users\Sebas\source\repos\Letterfrequentie teller\Letterfrequentie teller\obj\Debug\Letterfrequentie teller.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Letterfrequentie teller\Letterfrequentie teller\obj\Debug\Letterfrequentie teller.exe
+C:\Users\Sebas\source\repos\Letterfrequentie teller\Letterfrequentie teller\obj\Debug\Letterfrequentie teller.pdb
