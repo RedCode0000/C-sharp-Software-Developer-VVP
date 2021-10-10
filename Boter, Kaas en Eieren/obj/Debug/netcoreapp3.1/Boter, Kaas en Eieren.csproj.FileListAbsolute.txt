@@ -1,0 +1,16 @@
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\bin\Debug\netcoreapp3.1\Boter, Kaas en Eieren.exe
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\bin\Debug\netcoreapp3.1\Boter, Kaas en Eieren.deps.json
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\bin\Debug\netcoreapp3.1\Boter, Kaas en Eieren.runtimeconfig.json
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\bin\Debug\netcoreapp3.1\Boter, Kaas en Eieren.runtimeconfig.dev.json
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\bin\Debug\netcoreapp3.1\Boter, Kaas en Eieren.dll
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\bin\Debug\netcoreapp3.1\Boter, Kaas en Eieren.pdb
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\obj\Debug\netcoreapp3.1\Boter, Kaas en Eieren.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\obj\Debug\netcoreapp3.1\Boter__Kaas_en_Eieren.Form1.resources
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\obj\Debug\netcoreapp3.1\Boter, Kaas en Eieren.csproj.GenerateResource.cache
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\obj\Debug\netcoreapp3.1\Boter, Kaas en Eieren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\obj\Debug\netcoreapp3.1\Boter, Kaas en Eieren.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\obj\Debug\netcoreapp3.1\Boter, Kaas en Eieren.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\obj\Debug\netcoreapp3.1\Boter, Kaas en Eieren.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\obj\Debug\netcoreapp3.1\Boter, Kaas en Eieren.dll
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\obj\Debug\netcoreapp3.1\Boter, Kaas en Eieren.pdb
+C:\Users\Sebas\source\repos\Boter, Kaas en Eieren\Boter, Kaas en Eieren\obj\Debug\netcoreapp3.1\Boter, Kaas en Eieren.genruntimeconfig.cache
