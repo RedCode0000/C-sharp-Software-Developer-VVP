@@ -1,0 +1,17 @@
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\bin\Debug\netcoreapp3.1\Romeinse Rekenmachine.exe
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\bin\Debug\netcoreapp3.1\Romeinse Rekenmachine.deps.json
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\bin\Debug\netcoreapp3.1\Romeinse Rekenmachine.runtimeconfig.json
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\bin\Debug\netcoreapp3.1\Romeinse Rekenmachine.runtimeconfig.dev.json
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\bin\Debug\netcoreapp3.1\Romeinse Rekenmachine.dll
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\bin\Debug\netcoreapp3.1\Romeinse Rekenmachine.pdb
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\netcoreapp3.1\Romeinse Rekenmachine.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\netcoreapp3.1\Romeinse_Rekenmachine.Form1.resources
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\netcoreapp3.1\Romeinse Rekenmachine.csproj.GenerateResource.cache
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\netcoreapp3.1\Romeinse Rekenmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\netcoreapp3.1\Romeinse Rekenmachine.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\netcoreapp3.1\Romeinse Rekenmachine.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\netcoreapp3.1\Romeinse Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\netcoreapp3.1\Romeinse Rekenmachine.dll
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\netcoreapp3.1\Romeinse Rekenmachine.pdb
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\netcoreapp3.1\Romeinse Rekenmachine.genruntimeconfig.cache
+C:\Users\Sebas\source\repos\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\netcoreapp3.1\Romeinse_Rekenmachine.frmMain.resources
