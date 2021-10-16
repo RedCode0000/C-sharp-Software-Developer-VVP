@@ -1,0 +1,14 @@
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp3.1\MorseDecoder.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp3.1\MorseDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp3.1\MorseDecoder.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp3.1\MorseDecoder.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp3.1\MorseDecoder.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp3.1\MorseDecoder.exe
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp3.1\MorseDecoder.deps.json
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp3.1\MorseDecoder.runtimeconfig.json
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp3.1\MorseDecoder.runtimeconfig.dev.json
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp3.1\MorseDecoder.dll
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp3.1\MorseDecoder.pdb
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp3.1\MorseDecoder.dll
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp3.1\MorseDecoder.pdb
+C:\Users\Sebas\source\repos\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp3.1\MorseDecoder.genruntimeconfig.cache
