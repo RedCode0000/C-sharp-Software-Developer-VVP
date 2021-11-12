@@ -1,0 +1,14 @@
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\bin\Debug\netcoreapp3.1\Toren van Hanoi.exe
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\bin\Debug\netcoreapp3.1\Toren van Hanoi.deps.json
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\bin\Debug\netcoreapp3.1\Toren van Hanoi.runtimeconfig.json
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\bin\Debug\netcoreapp3.1\Toren van Hanoi.runtimeconfig.dev.json
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\bin\Debug\netcoreapp3.1\Toren van Hanoi.dll
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\bin\Debug\netcoreapp3.1\Toren van Hanoi.pdb
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\obj\Debug\netcoreapp3.1\Toren van Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\obj\Debug\netcoreapp3.1\Toren van Hanoi.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\obj\Debug\netcoreapp3.1\Toren van Hanoi.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\obj\Debug\netcoreapp3.1\Toren van Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\obj\Debug\netcoreapp3.1\Toren van Hanoi.dll
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\obj\Debug\netcoreapp3.1\Toren van Hanoi.pdb
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\obj\Debug\netcoreapp3.1\Toren van Hanoi.genruntimeconfig.cache
+C:\Users\Sebas\source\repos\Toren van Hanoi\Toren van Hanoi\obj\Debug\netcoreapp3.1\Toren van Hanoi.csproj.AssemblyReference.cache
