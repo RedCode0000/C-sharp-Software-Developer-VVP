@@ -1,0 +1,6 @@
+C:\Users\Sebas\source\repos\Anagram Solver V2\CodeClub-AnagramSolver-master\CodeGolf.AnagramSolver.Core\bin\Debug\CodeGolf.AnagramSolver.Core.dll
+C:\Users\Sebas\source\repos\Anagram Solver V2\CodeClub-AnagramSolver-master\CodeGolf.AnagramSolver.Core\bin\Debug\CodeGolf.AnagramSolver.Core.pdb
+C:\Users\Sebas\source\repos\Anagram Solver V2\CodeClub-AnagramSolver-master\CodeGolf.AnagramSolver.Core\obj\Debug\CodeGolf.AnagramSolver.Core.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\Anagram Solver V2\CodeClub-AnagramSolver-master\CodeGolf.AnagramSolver.Core\obj\Debug\CodeGolf.AnagramSolver.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Anagram Solver V2\CodeClub-AnagramSolver-master\CodeGolf.AnagramSolver.Core\obj\Debug\CodeGolf.AnagramSolver.Core.dll
+C:\Users\Sebas\source\repos\Anagram Solver V2\CodeClub-AnagramSolver-master\CodeGolf.AnagramSolver.Core\obj\Debug\CodeGolf.AnagramSolver.Core.pdb
